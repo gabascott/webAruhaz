@@ -1,0 +1,17 @@
+@charset "utf-8";
+main{
+    max-width:1200px;
+}
+img {
+    width: 100px;
+}
+table{
+    text-align: center;
+}
+table,tr {
+    width: 100%;
+    border-collapse: collapse;
+}
+tr,th,td {
+    border: 1px solid gray;
+}
